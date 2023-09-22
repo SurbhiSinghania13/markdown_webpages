@@ -1,4 +1,4 @@
-[Home](index.markdown) | [Projects](projects.mardown) | [Education](education.markdown) | [Work Experience](work_experience.markdown) | [Contact](contact.markdown) 
+[Home](index.markdown) | [Projects](projects.markdown) | [Education](education.markdown) | [Work Experience](work_experience.markdown) | [Contact](contact.markdown) 
 
 ## Projects
 
